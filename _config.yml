@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/t6tos"
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 title: ERC                                  # site's title
