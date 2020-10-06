@@ -21,6 +21,14 @@ qwert
 <br>
 ![Image of marshall]({{ "/assets/img/marshall.jpg" | relative_url }}){: .align-right}
 
+* TOC
+
 # header 1
 ## header 2
 ### header 3
+
+
+{: toc}
+
+# Aligner with only One (50% of width)
+{% include aligner.html images="marshall.jpeg" %}
