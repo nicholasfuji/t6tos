@@ -30,5 +30,5 @@ qwert
 
 {: toc}
 
-# Aligner with only One (50% of width)
+
 {% include aligner.html images="marshall.jpeg" %}
