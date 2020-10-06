@@ -31,4 +31,4 @@ qwert
 {: toc}
 
 
-{% include aligner.html images="marshall.jpeg" %}
+{% include aligner.html images="/assets/img/marshall.jpeg" %}
