@@ -7,6 +7,9 @@ feature-img: "assets/img/foucault.jpg"
 thumbnail: "assets/img/foucault.jpeg"
 color: 
 tags: [russia]
+actions:
+  - label: hello
+    url: https://www.google.com
 ---
 kjgkttk
 
