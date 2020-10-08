@@ -10,7 +10,7 @@ tags:
   - Teaching cases
 gallery:
   - url: /assets/images/trade.jpg
-    image_path: /assets/images/trade.jpg
+    image_path: /assets/img/schop.jpg
     title: "Figure 1. External Trade "
     alt: Failed
 ---
