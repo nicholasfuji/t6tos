@@ -10,10 +10,11 @@ avatar: assets/img/CUHK_logo.jpg                         # Empty for no avatar i
 favicon: assets/img/CUHK_logo.jpg                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Economic Research Centre # Change Blog header text
+header_text: Economic Research Centre
+subtitle: Hong Kong Institute of Asia-Pacific Studies, The Chinese University of Hong Kong # Change Blog header text
 header_feature_image: assets/img/index_hero2.jpg
 footer_text: >
-  Copyright 2020 ERC, HKIAPS.
+  Copyright 2020 ERC, HKIAPS, CUHK.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
