@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Invisible Trade "
 
 excerpt: We have designed a teaching case about Invisible Trade, taking Hong
