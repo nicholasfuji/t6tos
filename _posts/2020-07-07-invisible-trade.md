@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Invisible Trade "
 tagline: Teaching cases
 excerpt: We have designed a teaching case about Invisible Trade, taking Hong
