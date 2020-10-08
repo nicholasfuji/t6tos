@@ -22,6 +22,8 @@ Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](
     # btn_label: "Read More"
     # btn_class: "btn--primary"
     
+[Click me](http://www.google.com){: .btn}
+    
 ## header 2
 Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 ### header 3
