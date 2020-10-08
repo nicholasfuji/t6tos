@@ -84,5 +84,5 @@ We thank [Hong Kong Trade and Industry Department](https://www.tid.gov.hk/) for 
 
 We would also like to acknowledge the endeavour of the following individuals. We are grateful to LAM Chung Yi Chris for his guide to our students and helps in administrative work. Thanks to the background research on invisible trade by LI Wing Shun Amanda, Kaye LIU and HO Shing Hin Kenneth which established the foundation of this paper. With CHEUNG Yau Ming, HUI Chi Wang, KUNG Yun Man, TSOI Man Hoi and WONG Yue, the game was well-designed and implemented successfully in schools.
 
-[]({{ "/assets/img/schop.jpg" | relative_url }})
+![schop]({{ "/assets/img/schop.jpg" | relative_url }})
 
