@@ -9,8 +9,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Economic Research Centre
-Hong Kong Institute of Asia-Pacific Studies # Change Blog header text
+header_text: Economic Research Centre, Hong Kong Institute of Asia-Pacific Studies # Change Blog header text
 header_feature_image: assets/img/erc_door copy2.jpg
 footer_text: >
   Copyright 2020 ERC, HKIAPS.
