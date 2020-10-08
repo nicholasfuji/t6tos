@@ -13,9 +13,7 @@ actions:
 
 # header 1
 
-url: "https://www.google.com"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+<button type="button">Click Me!</button>
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
