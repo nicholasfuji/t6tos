@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Invisible Trade - School Visits
 tagline: Teaching cases - school visit
 excerpt: We implemented our game in a few schools this Summer.
