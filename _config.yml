@@ -6,8 +6,8 @@ url: ""
 title: Economic Research Centre, HKIAPS, CUHK                               # site's title
 
 description: "ERC, HKIAPS, CUHK"      # used by search engines
-avatar: assets/img/favicon.png.jpg                         # Empty for no avatar in navbar
-favicon: assets/img/favicon.png.jpg                             # Icon displayed in the tab
+avatar: assets/img/CUHK_logo.jpg                         # Empty for no avatar in navbar
+favicon: assets/img/CUHK_logo.jpg                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Economic Research Centre # Change Blog header text
