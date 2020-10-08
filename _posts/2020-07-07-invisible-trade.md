@@ -8,24 +8,9 @@ date: 2020-07-07T02:00:00.000Z
 header:
   actions: []
   overlay_filter: 0.4
-  overlay_image: /assets/images/index_fta.jpg
+
 gallery:
-  - url: /assets/images/trade.jpg
-    image_path: /assets/images/trade.jpg
-    title: "Figure 1. External Trade "
-    alt: Failed
-  - url: /assets/images/services.jpg
-    title: Figure 2. Trades of Services
-    image_path: /assets/images/services.jpg
-    alt: Failed
-  - url: /assets/images/onoffshore.jpg
-    image_path: /assets/images/onoffshore.jpg
-    title: Figure 3. Onshore and Offshore Trade
-    alt: Failed
-  - url: /assets/images/card.jpg
-    alt: Failed
-    image_path: /assets/images/card.jpg
-    title: Figure 4. Example of Game Card
+ 
 tags:
   - Invisible Trade
   - Teaching cases
