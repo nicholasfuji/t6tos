@@ -29,7 +29,7 @@ b
 [button url="http://www.google.com"]
 
 c
-{% include button.html url="http://www.google.com" %}
+
 
 
 ## header 2
