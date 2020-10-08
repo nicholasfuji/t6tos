@@ -6,12 +6,12 @@ url: ""
 title: Economic Research Centre, HKIAPS, CUHK                               # site's title
 
 description: "ERC, HKIAPS, CUHK"      # used by search engines
-avatar: assets/img/culogo.png                        # Empty for no avatar in navbar
-favicon: assets/img/CUHK_logo.png                           # Icon displayed in the tab
+avatar: assets/img/cuhklogo2.jpg                        # Empty for no avatar in navbar
+favicon: assets/img/cuhklogo2.jpg                           # Icon displayed in the tab
 
 # Header and footer text
 header_text: Economic Research Centre
-subtitle: Hong Kong Institute of Asia-Pacific Studies, The Chinese University of Hong Kong # Change Blog header text
+subheader_text: Hong Kong Institute of Asia-Pacific Studies, The Chinese University of Hong Kong # Change Blog header text
 header_feature_image: assets/img/index_hero2.jpg
 footer_text: >
   Copyright 2020 ERC, HKIAPS, CUHK.
