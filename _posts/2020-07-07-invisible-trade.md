@@ -18,6 +18,8 @@ This is a teaching case aiming to introduce certain trade concepts and Hong Kong
 
 In recent years, news reports often use cargo throughput as a measure of Hong Kong trade activities and claim Hong Kong is not competitive anymore. However, our students found out the values of both exports and imports of goods have been increasing for decades (figure 1). A more important finding is that exports and imports of services have also been rising quite rapidly for the last 10 years (figure 2). These statistics means Hong Kong trading firms no longer import the products to Hong Kong and re-export it (traditional Onshore Trade), instead, they are now providing services to ship the products directly from countries to countries without going through Hong Kong (Offshore Trade).
 
+![schop]({{ "/assets/img/robinson.jpg" | relative_url }})
+
 # The Game
 
 The game is designed based on the above result. The setting of it is to let the audience understand cargo throughput tells quantity information alone but cannot fully reflect the values of trade (both price and quantity). Another goal of the game is to introduce Onshore and Offshore trade, using Hong Kong as an example.
