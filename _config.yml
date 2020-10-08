@@ -3,7 +3,7 @@ baseurl: "/t6tos"
 url: ""
 
 # THEME-SPECIFIC CONFIGURATION
-title: Economic Research Centre, Hong Kong Institute of Asia-Pacific Studies, The Chinese University of Hong Kong                               # site's title
+title: Economic Research Centre, HKIAPS, CUHK                               # site's title
 
 description: "ERC, HKIAPS, CUHK"      # used by search engines
 avatar: assets/img/favicon.png.jpg                         # Empty for no avatar in navbar
