@@ -30,7 +30,7 @@ b
 
 c
 
-
+{% include button.html url="http://www.google.com" %}
 
 ## header 2
 Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
